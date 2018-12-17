@@ -4,10 +4,15 @@
         "Hans",
         "Chris",
         "Martine", 
+        "Ruben",
+        "Martijn",
+        "Marten",
         "Niels"
     ],
     "Managers" : [
         "Jeen",
-        "Joas"
+        "Joas", 
+        "Corne",
+        "Guus"
     ]
 }
