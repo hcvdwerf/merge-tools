@@ -1,0 +1,13 @@
+{
+    "Company" : "Navara",
+    "Developers": [
+        "Hans",
+        "Chris",
+        "Martine", 
+        "Niels"
+    ],
+    "Managers" : [
+        "Jeen",
+        "Joas"
+    ]
+}
