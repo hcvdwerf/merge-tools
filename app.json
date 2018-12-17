@@ -8,6 +8,9 @@
     ],
     "Managers" : [
         "Jeen",
-        "Joas"
-    ]
+        "Joas",
+        "Corne", 
+        "Ruben"
+    ],
+    "CEO" :  "Arnold"  
 }
